@@ -5,7 +5,7 @@ import ControlPanel from './ControlPanel'
 function Container(props){
     return (
     <div id='container'>
-        <div id="footer"><a href="tg://resolve?domain=steveblowjobs666" target="_blank">Slava Merkulov Production</a></div>    
+        <div id="footer"><a href="tg://resolve?domain=steveblobs666" target="_blank">Slava Merkulov Production</a></div>    
         <div id="inner-container">
         <ButtonsGrid 
         powerOn={props.powerOn}
